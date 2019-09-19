@@ -1,7 +1,7 @@
 package com.atguigu.data.array;
 
 import java.util.function.IntToDoubleFunction;
-
+/*dasasd*/
 public class ArrayTest {
 	public static void main(String[] args) {
 		//设置二维数组
